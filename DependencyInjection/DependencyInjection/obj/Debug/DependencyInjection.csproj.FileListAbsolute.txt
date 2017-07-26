@@ -1,0 +1,6 @@
+c:\users\all\documents\visual studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+c:\users\all\documents\visual studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+c:\users\all\documents\visual studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+c:\users\all\documents\visual studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+c:\users\all\documents\visual studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+c:\users\all\documents\visual studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
